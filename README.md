@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Name: Shashank<br>
+Currently pursing Btech in REVA<br>
+Contact me at shashankgk78@gmail.com<br>
 <!--
 **1shashankgk/1shashankgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
